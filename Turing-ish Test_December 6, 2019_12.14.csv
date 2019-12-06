@@ -1,0 +1,59 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Q2,Q1
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,Gender,"A.           B.                
+
+Which audio clip is AI-generated?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2""}","{""ImportId"":""QID1""}"
+2019-11-10 18:32:18,2019-11-10 18:33:59,Survey Preview,100,101,True,2019-11-10 18:33:59,R_21FD4P3aXGNGHIP,preview,EN,Male,B
+2019-11-10 19:21:39,2019-11-10 19:23:28,IP Address,100,108,True,2019-11-10 19:23:29,R_1pPOSInrWVB0mbG,anonymous,EN,Male,B
+2019-11-10 22:29:40,2019-11-10 22:31:23,IP Address,100,102,True,2019-11-10 22:31:23,R_1DZrp0wjwAbOtyx,anonymous,EN,Female,B
+2019-11-10 22:33:32,2019-11-10 22:34:17,IP Address,100,44,True,2019-11-10 22:34:17,R_1GPNeCG09FAaPRl,anonymous,EN,Male,B
+2019-11-10 22:32:48,2019-11-10 22:34:31,IP Address,100,103,True,2019-11-10 22:34:31,R_3kp5ZUps7m5T3XQ,anonymous,EN,Male,B
+2019-11-10 22:33:26,2019-11-10 22:35:23,IP Address,100,116,True,2019-11-10 22:35:23,R_1BWYiMOhjoLbMa5,anonymous,EN,Female,B
+2019-11-10 22:37:07,2019-11-10 22:38:05,IP Address,100,58,True,2019-11-10 22:38:05,R_zdRACJAodyrT1mh,anonymous,EN,Female,B
+2019-11-10 22:39:29,2019-11-10 22:42:50,IP Address,100,201,True,2019-11-10 22:42:51,R_QiHKXKXSWJxr3Gh,anonymous,EN,Female,B
+2019-11-10 22:36:36,2019-11-10 22:45:08,IP Address,100,512,True,2019-11-10 22:45:08,R_32VllvG7EBAoFXm,anonymous,EN,Male,A
+2019-11-10 22:46:59,2019-11-10 22:50:34,IP Address,100,215,True,2019-11-10 22:50:35,R_ZkMMJ4OsGFSYBgd,anonymous,EN,Female,A
+2019-11-10 23:19:25,2019-11-10 23:20:16,IP Address,100,50,True,2019-11-10 23:20:16,R_31zz10wsQLlocYS,anonymous,EN,Female,A
+2019-11-10 23:21:51,2019-11-10 23:22:36,IP Address,100,45,True,2019-11-10 23:22:37,R_2TBslL42XaQqEfy,anonymous,EN,Male,B
+2019-11-11 00:05:17,2019-11-11 00:06:17,IP Address,100,59,True,2019-11-11 00:06:17,R_2ahM1gjXjctdOts,anonymous,EN,Female,A
+2019-11-11 00:48:58,2019-11-11 00:50:46,IP Address,100,108,True,2019-11-11 00:50:47,R_UmdDhGCRLwb3Qjv,anonymous,EN,Female,B
+2019-11-11 02:06:20,2019-11-11 02:09:38,IP Address,100,197,True,2019-11-11 02:09:38,R_1pWMvQDbXHeCaI4,anonymous,EN,Female,B
+2019-11-11 17:55:59,2019-11-11 17:57:44,IP Address,100,104,True,2019-11-11 17:57:45,R_ZdHQmJIE5Glqj2p,anonymous,EN,Male,A
+2019-11-11 20:33:20,2019-11-11 20:33:45,IP Address,100,25,True,2019-11-11 20:33:45,R_9BOeRcTljJpPv1f,anonymous,EN,Female,A
+2019-11-11 20:38:34,2019-11-11 20:39:01,IP Address,100,27,True,2019-11-11 20:39:01,R_z5V7GEHaJTrjESR,anonymous,EN,Male,A
+2019-11-11 20:44:08,2019-11-11 20:46:38,IP Address,100,149,True,2019-11-11 20:46:38,R_3CW1xsl5UmWOBTq,anonymous,EN,Male,B
+2019-11-11 20:56:34,2019-11-11 20:58:00,IP Address,100,85,True,2019-11-11 20:58:00,R_3sbRlAVqfTN8z07,anonymous,EN,Female,B
+2019-11-11 21:36:20,2019-11-11 21:36:37,IP Address,100,16,True,2019-11-11 21:36:37,R_3HTf2tW77ajhXEV,anonymous,EN,Male,B
+2019-11-11 22:34:42,2019-11-11 22:35:48,IP Address,100,65,True,2019-11-11 22:35:48,R_0oHCF65bnsW5bRD,anonymous,EN,Female,B
+2019-11-11 22:58:50,2019-11-11 23:00:19,IP Address,100,89,True,2019-11-11 23:00:20,R_294WTKnBhKrKlWe,anonymous,EN,Male,A
+2019-11-12 00:25:46,2019-11-12 00:27:09,IP Address,100,82,True,2019-11-12 00:27:09,R_2wGGfjDWNH85WTY,anonymous,EN,Female,A
+2019-11-12 00:29:41,2019-11-12 00:30:45,IP Address,100,64,True,2019-11-12 00:30:45,R_1ND3PjJxvrxTxcI,anonymous,EN,Male,A
+2019-11-12 02:02:42,2019-11-12 02:04:13,IP Address,100,90,True,2019-11-12 02:04:13,R_1DZu992KsihWbxO,anonymous,EN,Male,B
+2019-11-12 09:18:41,2019-11-12 09:20:54,IP Address,100,133,True,2019-11-12 09:20:55,R_2tf0RabNu17ZcyB,anonymous,EN,Female,B
+2019-11-12 10:59:08,2019-11-12 11:00:59,IP Address,100,111,True,2019-11-12 11:01:00,R_abLjbBi1CajTtbb,anonymous,EN,Female,B
+2019-11-12 11:03:55,2019-11-12 11:04:27,IP Address,100,31,True,2019-11-12 11:04:27,R_ABVRBqkB3Yg3YQN,anonymous,EN,Female,B
+2019-11-12 11:18:28,2019-11-12 11:19:27,IP Address,100,59,True,2019-11-12 11:19:28,R_YaeLOAZDz6BVxEB,anonymous,EN,Male,A
+2019-11-12 12:26:23,2019-11-12 12:27:50,IP Address,100,86,True,2019-11-12 12:27:50,R_3IcaHYvfnghmaZw,anonymous,EN,Male,B
+2019-11-12 12:31:53,2019-11-12 12:32:24,IP Address,100,30,True,2019-11-12 12:32:24,R_29g00SydWxKaeLg,anonymous,EN,Male,B
+2019-11-12 13:34:27,2019-11-12 13:36:15,IP Address,100,108,True,2019-11-12 13:36:16,R_1esloNH0V382HxV,anonymous,EN,Male,A
+2019-11-12 14:16:37,2019-11-12 14:18:06,IP Address,100,88,True,2019-11-12 14:18:07,R_Y621kMBVD4EeG7T,anonymous,EN,Male,B
+2019-11-12 16:08:35,2019-11-12 16:09:29,IP Address,100,53,True,2019-11-12 16:09:30,R_1DwoQxAzmInSZry,anonymous,EN,Male,A
+2019-11-12 16:51:22,2019-11-12 16:56:02,IP Address,100,279,True,2019-11-12 16:56:03,R_2wESTKtVc0Ha6cx,anonymous,EN,Female,A
+2019-11-12 18:13:08,2019-11-12 18:16:14,IP Address,100,186,True,2019-11-12 18:16:15,R_snBankGgSLvPVLz,anonymous,EN,Male,B
+2019-11-12 18:14:28,2019-11-12 18:18:29,IP Address,100,241,True,2019-11-12 18:18:29,R_1g1qdYg47fIgPEr,anonymous,EN,Male,B
+2019-11-12 18:56:25,2019-11-12 18:57:03,IP Address,100,37,True,2019-11-12 18:57:03,R_31RaTIz6GRtXWOt,anonymous,EN,Female,B
+2019-11-12 19:48:28,2019-11-12 19:49:29,IP Address,100,60,True,2019-11-12 19:49:29,R_2TAfVauv2siIxuy,anonymous,EN,Female,B
+2019-11-12 21:27:06,2019-11-12 21:28:24,IP Address,100,78,True,2019-11-12 21:28:24,R_2P0zerXWCMhvtil,anonymous,EN,Female,A
+2019-11-12 21:34:47,2019-11-12 21:37:00,IP Address,100,132,True,2019-11-12 21:37:00,R_2EyPh0mYwkBJKy0,anonymous,EN,Male,A
+2019-11-12 23:54:18,2019-11-12 23:56:47,IP Address,100,148,True,2019-11-12 23:56:47,R_eCXdNSujL69fJW9,anonymous,EN,Female,B
+2019-11-13 00:17:24,2019-11-13 00:18:13,IP Address,100,49,True,2019-11-13 00:18:14,R_ZmDcUYcESVSAESd,anonymous,EN,Male,A
+2019-11-13 03:02:42,2019-11-13 03:07:52,IP Address,100,310,True,2019-11-13 03:07:53,R_2PooQVBeMulxCD4,anonymous,EN,Female,B
+2019-11-13 10:02:19,2019-11-13 10:03:06,IP Address,100,47,True,2019-11-13 10:03:06,R_1OCautdO8JXh7Zj,anonymous,EN,Female,B
+2019-11-10 19:53:51,2019-11-10 19:57:09,Imported,100,198,True,2019-11-13 10:04:11,R_b4z3scWhzOY7q7P,anonymous,EN,Female,A
+2019-11-10 20:56:04,2019-11-10 20:57:30,Imported,100,86,True,2019-11-13 10:04:11,R_7R3c9YJZ6rM2sIJ,anonymous,EN,Female,A
+2019-11-10 21:41:58,2019-11-10 21:44:03,Imported,100,125,True,2019-11-13 10:04:11,R_aYq2Cqi2TKQmbWd,anonymous,EN,Female,A
+2019-11-10 21:58:18,2019-11-10 21:58:38,Imported,100,19,True,2019-11-13 10:04:11,R_a9NTTo7jJKwKIYd,anonymous,EN,Female,A
+2019-11-11 20:19:21,2019-11-11 20:21:08,Imported,100,106,True,2019-11-13 10:04:11,R_7WFLGKHXS7hFh2J,anonymous,EN,Male,B
+2019-11-12 23:27:23,2019-11-12 23:27:41,Imported,100,17,True,2019-11-13 10:04:11,R_5uIB71psVlGfuYd,anonymous,EN,Female,A
+2019-11-13 10:18:55,2019-11-13 10:23:28,IP Address,100,272,True,2019-11-13 10:23:29,R_28STqQuC7U7wOV1,anonymous,EN,Male,A
+2019-11-13 14:38:24,2019-11-13 14:40:23,IP Address,100,119,True,2019-11-13 14:40:23,R_33gpmLixY3UxNXx,anonymous,EN,Male,B
