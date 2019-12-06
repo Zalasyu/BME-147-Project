@@ -4,7 +4,6 @@ from sklearn import preprocessing
 import matplotlib.pyplot as plt
 plt.rc("font", size=14)
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
 import seaborn as sns
 sns.set()
 from scipy.stats import chi2_contingency
